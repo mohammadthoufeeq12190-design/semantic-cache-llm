@@ -3,4 +3,5 @@ uvicorn
 redis
 numpy
 sentence-transformers
+requestsstreamlit
 requests
