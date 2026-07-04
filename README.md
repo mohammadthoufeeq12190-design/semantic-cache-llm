@@ -7,7 +7,7 @@ A production-ready semantic caching layer for Large Language Model (LLM) APIs th
 ## 🏗️ Architecture
 
 ![Architecture](assets/architecture.png)
-
+![note diagram](architecture.png)
 ---
 
 ## 🚀 Features
@@ -102,3 +102,24 @@ streamlit run frontend.py
 - Grafana dashboard
 - CI/CD pipeline
 - Cloud deployment
+## 🚀 Live API
+
+Swagger Docs:
+https://your-service-name.onrender.com/docs
+
+
+## 🚀 Live Deployment
+
+API Base URL:
+https://semantic-cache-llm.onrender.com
+
+Swagger Docs:
+https://semantic-cache-llm.onrender.com/docs
+
+## 📊 Performance Results
+
+| Metric | Value |
+|--------|--------|
+| Avg Latency (Miss) | 1.12s |
+| Avg Latency (Hit) | 0.18s |
+| Latency Improvement | 83% |s
